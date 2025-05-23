@@ -7,8 +7,7 @@ R2GQA is an automated question answering system with three components—retrieva
 **Notice**: This dataset is published for research purposes only. The dataset is not intended for commercial use.
 
 ## Data Example
-
-
+![](https://github.com/DoPhamPhucTinh/R2GQA/blob/main/R2GQA-Data-Example.png)
 
 ## Citation 
 ```bash
