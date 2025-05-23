@@ -1,6 +1,6 @@
 # R2GQA at [Artificial Intelligence and Law](https://link.springer.com/journal/10506)
 ## Introduction
-This repository contains the data of the paper [R2GQA: retriever-reader-generator question answering system to support students understanding legal regulations in higher education]([https://aclanthology.org/2023.paclic-1.3.pdf](https://link.springer.com/article/10.1007/s10506-025-09457-7). 
+This repository contains the data of the paper [R2GQA: retriever-reader-generator question answering system to support students understanding legal regulations in higher education](https://link.springer.com/article/10.1007/s10506-025-09457-7). 
 
 R2GQA is an automated question answering system with three components—retrieval, reading, and generation—designed to help students understand university training regulations. It operates on the ViRHE4QA dataset, which includes 9,758 question-answer pairs and provides both extractive and abstractive answers in Vietnamese in this domain.
 
